@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "811527085449",
+    "firebase_url": "https://esp8266-95d34-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-95d34",
+    "storage_bucket": "esp8266-95d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811527085449:android:7657f81055d170664c5558",
+        "android_client_info": {
+          "package_name": "com.example.frongapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811527085449-v4ctk1se99rokak1mnp094am1jff43na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZNSlmJPP4ZMsNhYR10PblrZI7STYs0xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811527085449-v4ctk1se99rokak1mnp094am1jff43na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811527085449:android:e0cfd3ce73f39b7d4c5558",
+        "android_client_info": {
+          "package_name": "com.example.wutapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811527085449-v4ctk1se99rokak1mnp094am1jff43na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZNSlmJPP4ZMsNhYR10PblrZI7STYs0xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811527085449-v4ctk1se99rokak1mnp094am1jff43na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

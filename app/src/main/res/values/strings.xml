@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fall detection</string>
+    <string name="hi">Hi, Your Detailed notification view goes here....</string>
+    <string name="re">RESET1</string>
+    <string name="notify">NOTIFY</string>
+    <string name="btWut">notify</string>
+    <string name="fall">reset2</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="compass">compass</string>
+    <string name="plot">พิกัด</string>
+
+    ///C O M P A S S///
+    <string name="action_settings">Settings</string>
+
+    <string name="compass_dial" translatable="false">Compass Dial</string>
+    <string name="compass_hands" translatable="false">Compass Hands</string>
+
+    <string name="sotw_north">N</string>
+    <string name="sotw_east">E</string>
+    <string name="sotw_south">S</string>
+    <string name="sotw_west">W</string>
+    <string name="sotw_northeast">NE</string>
+    <string name="sotw_northwest">NW</string>
+    <string name="sotw_southeast">SE</string>
+    <string name="sotw_southwest">SW</string>
+
+</resources>
